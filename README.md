@@ -5,10 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mausam678" alt="mausam678" /></a> </p>
 
+- 🌱 I’m currently learning **Embedded C , Microcontroller and AI/ML**
+
+- 💬 Ask me about **ESP32 Programming , STM32 , Arduino ide , Platform io , STM32CUBE ide**
+
+- 📫 How to reach me **mausamraj678 @gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mausam raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mausam raj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aaj technical raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaj technical raj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/@mausamraj63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@mausamraj63" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
